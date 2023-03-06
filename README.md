@@ -3,9 +3,9 @@
  **Answers**
  ### Item 1) is covered by the file "Manual Test Cases.xlsx"
 
- ### Item 2) is covered by the tests in the UITests folder, triggered by the file SwagLabsStoreUITesting.feature
+ ### Item 2) is covered by the tests in the NUnitTestProject1/UITests folder, triggered by the file SwagLabsStoreUITesting.feature
  
- ### Item 3) is covered by the tests in the API folder, trigger by REST.feature
+ ### Item 3) is covered by the tests in the NUnitTestProject1/APITests folder, trigger by REST.feature
  
 ___________________________________________________________________________________
 Built using C#, Selenium(with Chrome Driver) and Specflow.
